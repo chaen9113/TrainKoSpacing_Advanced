@@ -1,0 +1,6 @@
+data/*
+trainlstm.py
+resources/*
+*/__pycache__/*
+.vscode/
+
